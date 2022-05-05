@@ -6,7 +6,8 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-      <p>Sialala...</p>
+      <p>Sialala... Coś działa. Chyba widzę i wiemgit status
+      </p>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
